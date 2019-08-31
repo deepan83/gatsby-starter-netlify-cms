@@ -49,7 +49,6 @@ const Footer = class extends React.Component {
                         Contact
                       </Link>
                     </li>
-                    </li>
                   </ul>
                 </section>
               </div>
