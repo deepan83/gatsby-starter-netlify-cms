@@ -16,10 +16,14 @@ mainpitch:
     sodales condimentum. Quisque varius non metus et cursus. Donec bibendum nisl
     in tempus lacinia.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et tempor
+  mauris. Donec orci lorem, eleifend non tortor id, pharetra vulputate ante.
+  Morbi sed massa nec turpis malesuada lacinia. In tincidunt nisi volutpat
+  vehicula faucibus. Morbi sed neque a sem fermentum ultrices. Nunc et urna
+  magna. Cras at turpis tempus, euismod nisi eget, sagittis orci. Sed et iaculis
+  metus. Nam condimentum sit amet orci eu viverra. Aenean blandit sodales
+  condimentum. Quisque varius non metus et cursus. Donec bibendum nisl in tempus
+  lacinia.
 intro:
   blurbs:
     - image: /img/coffee.png
