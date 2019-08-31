@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Helping shape a new future
-image: /img/home-jumbotron.jpg
+image: /img/new-orphanage-children-15.jpg
 heading: Helping shape a new future
 subheading: Lorem ipsum dolor sit amet
 mainpitch:
